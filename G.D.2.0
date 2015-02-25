@@ -1,4 +1,7 @@
-Let's make a game! -Game Developer :3 -by me -version 1
+Let's make a game! 
+-Game Developer :3 
+-by me 
+-version 1
 
 Settings : -prices increase by 100% -selling gives back 100% -resources are hidden by default -clickables are hidden by default -buildings are hidden by default -upgrades are hidden by default -achievements are hidden by default -show log -custom stylesheet : http://pastebin.com/raw.php?i=tnc4Z5Cx -text color : #00FF00 -fonts : Kavoon -boxes : main (resources, clickables); stats (achievements); store (upgrades, buildings)
 
